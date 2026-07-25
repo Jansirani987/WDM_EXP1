@@ -53,6 +53,9 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+# Employee
+<img width="1917" height="1135" alt="image" src="https://github.com/user-attachments/assets/9f4458d2-ab91-4d5c-9c36-2cf865fc7dff" />
+# Weather
 <img width="1912" height="1141" alt="image" src="https://github.com/user-attachments/assets/a2ebb72b-9720-497a-8a4d-9cd8da3f95aa" />
 
 
@@ -76,6 +79,9 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+# Employee
+<img width="1917" height="1135" alt="image" src="https://github.com/user-attachments/assets/ca060016-5e68-4da4-ba18-b26e0aed4244" />
+# Weather
 <img width="1912" height="1141" alt="image" src="https://github.com/user-attachments/assets/3770bae5-dc0f-46a5-9b5e-549f6d089958" />
 
 ### 2) Remove -> Pre-Processing Technique:
