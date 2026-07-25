@@ -53,7 +53,7 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-![Uploading image.png…]()
+<img width="1912" height="1141" alt="image" src="https://github.com/user-attachments/assets/a2ebb72b-9720-497a-8a4d-9cd8da3f95aa" />
 
 
 
