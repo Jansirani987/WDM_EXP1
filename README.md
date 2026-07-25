@@ -76,6 +76,7 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="1912" height="1141" alt="image" src="https://github.com/user-attachments/assets/3770bae5-dc0f-46a5-9b5e-549f6d089958" />
 
 ### 2) Remove -> Pre-Processing Technique:
 
